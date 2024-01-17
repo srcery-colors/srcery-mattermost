@@ -1,6 +1,6 @@
 # srcery-mattermost
 
-Schema for Mattermost.
+Scheme for [Mattermost](https://mattermost.com).
 
 ## Preview
 

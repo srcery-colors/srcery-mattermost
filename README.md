@@ -31,7 +31,7 @@ Scheme for [Mattermost](https://mattermost.com).
 1. Click **Display** on the sidebar to the right
 1. Open **Theme** on the page that opens
 1. Click **Custom Theme**
-1. Paste the code from [`./mattermost.json`](./mattermost.json) into the box that already have some JSON data
+1. Paste the code from [`srcery-mattermost.json`](./srcery-mattermost.json) into the box that already have some JSON data
 
 ### Result
 
